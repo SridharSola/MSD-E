@@ -7,7 +7,7 @@ import torch.utils.data as data
 import torchvision.transforms as transforms
 import torch.nn.functional as F
 
-from student import *
+from cl_student_dataset import *
 import resnet
 import utils
 
